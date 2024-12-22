@@ -1,0 +1,38 @@
+{
+  "name": "looneyloones",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@characters/b": "^2.1.0",
+    "@characters/i": "^2.1.0",
+    "@characters/m": "^2.1.0",
+    "@characters/s": "^2.1.0",
+    "@characters/t": "^2.1.0",
+    "@characters/u": "^2.1.0",
+    "boolean": "^3.2.0",
+    "false": "^0.0.4",
+    "is-even-ai": "^1.0.5",
+    "is-false": "^0.1.1",
+    "next": "15.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "true": "^0.0.4"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.2",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
